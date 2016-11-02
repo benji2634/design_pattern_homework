@@ -1,0 +1,1 @@
+This allows an algorithm's behaviour to be determined at run-time by using a 'Strategy interface'.  This interface can then be implemented by various other classes and by storing a reference to each class in a superclass, e.g. 'Context', each concrete strategy can then be retrieved for execution. 
